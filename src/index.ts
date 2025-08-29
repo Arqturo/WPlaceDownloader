@@ -10,7 +10,7 @@ const start = {
     row: 695
 } satisfies Chunk;
 
-const end = {
+const end = {fff
     col: 1129,
     row: 697
 } satisfies Chunk;
