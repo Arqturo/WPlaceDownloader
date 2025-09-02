@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import { Chunk, WPlace } from './lib/WPlace';
 import Logger from './lib/logger';
 import './lib/pollyfil';
-
+sss
 const wPlace = new WPlace(true);
 
 const start = {
